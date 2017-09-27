@@ -1,0 +1,10 @@
+BubbleSort
+BubbleSort1
+BubbleSort2
+InsertionSort
+SelectionSort
+LibrarySort
+MergeSort
+MergeSortPlus
+QuickSort
+BSTSort
